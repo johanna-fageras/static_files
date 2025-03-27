@@ -16,11 +16,11 @@ body {
 }
 
 strong {
-  font-variation-settings: "wght" 766.669;
+  font-variation-settings: "wght" 766.669 !important;
 }
 
 em {
-  font-variation-settings: "slnt" 12;
+  font-variation-settings: "slnt" 12 !important;
 }
 
 h1,
@@ -29,6 +29,6 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Syne';
-  font-weight: 700;
+  font-family: 'Syne' !important;
+  font-weight: 700 !important;
 }
