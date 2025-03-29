@@ -1,0 +1,109 @@
+@font-face {
+  font-family: 'Posterama Text';
+  src: url('../fonts/posterama-text/PosteramaText-Thin.woff2') format('woff2'),
+    url('../fonts/posterama-text/PosteramaText-Thin.woff') format('woff'),
+    url('../fonts/posterama-text/PosteramaText-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Posterama Text';
+  src: url('../fonts/posterama-text/PosteramaText-Light.woff2') format('woff2'),
+    url('../fonts/posterama-text/PosteramaText-Light.woff') format('woff'),
+    url('../fonts/posterama-text/PosteramaText-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Posterama Text';
+  src: url('../fonts/posterama-text/PosteramaText-Regular.woff2') format('woff2'),
+    url('../fonts/posterama-text/PosteramaText-Regular.woff') format('woff'),
+    url('../fonts/posterama-text/PosteramaText-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Posterama Text';
+  src: url('../fonts/posterama-text/PosteramaText-SemiBold.woff2') format('woff2'),
+    url('../fonts/posterama-text/PosteramaText-SemiBold.woff') format('woff'),
+    url('../fonts/posterama-text/PosteramaText-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Posterama Text';
+  src: url('../fonts/posterama-text/PosteramaText-Bold.woff2') format('woff2'),
+    url('../fonts/posterama-text/PosteramaText-Bold.woff') format('woff'),
+    url('../fonts/posterama-text/PosteramaText-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Posterama Text';
+  src: url('../fonts/posterama-text/PosteramaText-Black.woff2') format('woff2'),
+    url('../fonts/posterama-text/PosteramaText-Black.woff') format('woff'),
+    url('../fonts/posterama-text/PosteramaText-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Posterama Text';
+  src: url('../fonts/posterama-text/PosteramaText-UltraBlack.woff2') format('woff2'),
+    url('../fonts/posterama-text/PosteramaText-UltraBlack.woff') format('woff'),
+    url('../fonts/posterama-text/PosteramaText-UltraBlack.ttf') format('truetype');
+  font-weight: 1000;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tiempos Text';
+  src: url('../fonts/tiempos-text/TiemposText-Regular.woff2') format('woff2'),
+    url('../fonts/tiempos-text/TiemposText-Regular.woff') format('woff'),
+    url('../fonts/tiempos-text/TiemposText-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tiempos Text';
+  src: url('../fonts/tiempos-text/TiemposText-Medium.woff2') format('woff2'),
+    url('../fonts/tiempos-text/TiemposText-Medium.woff') format('woff'),
+    url('../fonts/tiempos-text/TiemposText-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tiempos Text';
+  src: url('../fonts/tiempos-text/TiemposText-SemiBold.woff2') format('woff2'),
+    url('../fonts/tiempos-text/TiemposText-SemiBold.woff') format('woff'),
+    url('../fonts/tiempos-text/TiemposText-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tiempos Text';
+  src: url('../fonts/tiempos-text/TiemposText-Bold.woff2') format('woff2'),
+    url('../fonts/tiempos-text/TiemposText-Bold.woff') format('woff'),
+    url('../fonts/tiempos-text/TiemposText-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
